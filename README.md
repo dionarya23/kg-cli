@@ -7,7 +7,8 @@ kg-cli (Kata Gaul command Line Interface) yang digunakan untuk mengetahui dari s
 ## Contoh penggunaan
 `kg kuy`
 
-Output => ```bash
+Output => 
+```bash
 user@User ~
 $ kg kuy
 Kuy
