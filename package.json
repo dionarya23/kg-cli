@@ -1,0 +1,34 @@
+{
+  "name": "kg-cli",
+  "version": "1.0.0",
+  "description": "Kata gaul command line interface",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionarya6661/kg-cli.git"
+  },
+  "bin": {
+    "kg": "./bin/kg.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "kg-cli",
+    "cli",
+    "kata",
+    "gaul",
+    "slank",
+    "word"
+  ],
+  "author": "Dion Arya Pamungkas <dionarya.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dionarya6661/kg-cli/issues"
+  },
+  "homepage": "https://github.com/dionarya6661/kg-cli#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
