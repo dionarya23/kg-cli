@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/dionarya6661/kg-cli#readme",
   "dependencies": {
-    "axios": "^0.17.1"
+    "axios": "^0.31.1"
   }
 }
